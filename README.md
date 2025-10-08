@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-<!--
 I'm currently learning Java and backend development, with the goal of becoming a full-stack developer.  
 I enjoy building projects, learning new technologies, and sharing my progress along the way.
 
