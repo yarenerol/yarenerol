@@ -9,21 +9,33 @@ I enjoy building projects, learning new technologies, and sharing my progress al
 - 📫 Reach me at: [LinkedIn](https://www.linkedin.com/in/yarenerol/) | [Email](mailto:yarenerol1@icloud.com)
 
 
-### 🧠 Languages & Technologies
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
-![JPA](https://img.shields.io/badge/JPA-007396?style=for-the-badge&logo=java&logoColor=white)
-![JDBC](https://img.shields.io/badge/JDBC-003B57?style=for-the-badge&logo=databricks&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
+### 🧠 Skills
 
----
+<p align="left">
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" />
+  </a>
+  <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" />
+  </a>
+  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" />
+  </a>
+  <a href="https://www.adobe.com/uk/products/premiere.html" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/premierepro-colored.svg" width="36" height="36" alt="Premiere Pro" />
+  </a>
+</p>
 
-### 🌱 Currently Learning
+### 🌱 Learning / In Progress
 
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=fastapi&logoColor=white)
-![Fullstack Development](https://img.shields.io/badge/Fullstack_Development-FF6F00?style=for-the-badge&logo=webcomponentsdotorg&logoColor=white)
+<a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer">
+  <img src="https://spring.io/img/projects/spring-boot.svg" width="36" height="36" alt="Spring Boot" />
+</a>
+  
+<a href="https://developer.mozilla.org/en-US/docs/Learn/Front-end_development" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="Fullstack / Frontend Learning" />
+</a>
+</p>
