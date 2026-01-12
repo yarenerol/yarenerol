@@ -1,10 +1,10 @@
 ## Hi there 👋
 
-I'm currently learning Java and backend development, with the goal of becoming a full-stack developer.  
+I'm currently learning React and frontend development, with the goal of becoming a full-stack developer.  
 I enjoy building projects, learning new technologies, and sharing my progress along the way.
 
 
-- 🌱 I’m currently learning: Java, JDBC, Hibernate, Java Spring Boot
+- 🌱 I’m currently learning: JavaSpring, React, CSS
 - 🚀 Goals: Becoming a Full-Stack Developer  
 - 📫 Reach me at: [LinkedIn](https://www.linkedin.com/in/yarenerol/) | [Email](mailto:yarenerol1@icloud.com)
 
@@ -27,15 +27,16 @@ I enjoy building projects, learning new technologies, and sharing my progress al
   <a href="https://www.adobe.com/uk/products/premiere.html" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/premierepro-colored.svg" width="36" height="36" alt="Premiere Pro" />
   </a>
-</p>
-
-### 🌱 Learning / In Progress
-
-<a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer">
-  <img src="https://spring.io/img/projects/spring-boot.svg" width="36" height="36" alt="Spring Boot" />
-</a>
-  
-<a href="https://developer.mozilla.org/en-US/docs/Learn/Front-end_development" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="Fullstack / Frontend Learning" />
-</a>
+  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="Premiere Pro" />
+  </a>
+  <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" />
+  </a>
+  <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" />
+  </a>
+  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" />
+  </a>
 </p>
