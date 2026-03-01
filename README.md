@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=Hi,%20it's%20Yaren%20🌺&reversal=false&textBg=false&animation=fadeIn&strokeWidth=0">
+<img src="https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=Hi,%20it's%20Yaren%20🌺&reversal=false&fontColor=black&textBg=false&animation=fadeIn&strokeWidth=0">
 
 ### 🚀 Full-Stack Developer Candidate & Tech Enthusiast
 I am a passionate developer currently focused on building robust backend systems and dynamic frontend experiences. Recently graduated from the intensive **Patika+ Full Stack Web Development Bootcamp**, where I honed my skills in Java and React.
