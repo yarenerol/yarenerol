@@ -7,7 +7,7 @@ I am a passionate developer currently focused on building robust backend systems
 - 🎓 Frontend Capstone Project: [Frontend Library Management System](https://github.com/yarenerol/LibraryManagementProject)
 - 🎓 Backend Capstone Project: [Backend Library Management System](https://github.com/yarenerol/LibraryManagementSystem/tree/master)
 - 🌱 I’m currently deep-diving into: **Spring Security, Context API, and Unit Testing.**
-- 💬 Ask me about: **Java, React, and OOP principles.**
+- 💬 Ask me about: **Java, React, Next.js and OOP principles.**
 
 ---
 
